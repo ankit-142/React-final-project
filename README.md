@@ -256,7 +256,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/ankit-142)
+- GitHub: [ankit-142](https://github.com/ankit-142)
 - Email: ankitattri018@gmail.com
 
 ---
