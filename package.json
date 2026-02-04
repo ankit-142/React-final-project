@@ -1,17 +1,24 @@
 {
-  "name": "react-final-project",
+  "name": "shoppyglobe-ecommerce",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A modern, responsive e-commerce application built with React, Vite, Redux Toolkit, and React Router",
+  "keywords": ["react", "ecommerce", "vite", "redux", "responsive", "shopping-cart"],
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview --host",
+    "start": "npm run dev"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "@reduxjs/toolkit": "^2.11.2",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.13.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
